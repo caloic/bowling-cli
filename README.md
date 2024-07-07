@@ -9,7 +9,7 @@ Bienvenue dans la simulation de bowling en ligne de commande (CLI) en JavaScript
 ## Installation
 
 1. Clonez le dépot du projet sur votre machine en utilisant la commande suivante
-   `git clone`
+   `git clone https://github.com/caloic/bowling-cli.git`
 
 2. Installez les dépendances :
     `npm install`
